@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/module.js"],"names":["XPointChartCtrl"],"mappings":";;;;;;;;AAAQA,qB,qBAAAA,e;;;2BAGNA,e","file":"module.js","sourcesContent":["import {XPointChartCtrl} from './xpointchart_ctrl';\n\nexport {\n  XPointChartCtrl as PanelCtrl\n};\n\n"]}
